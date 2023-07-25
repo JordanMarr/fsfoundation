@@ -140,6 +140,8 @@ Tags: <a href="#compiler">Compiler</a>, <a href="#editing">Editing</a>, <a href=
 
 * [Donald](https://github.com/pimbrouwers/Donald) - An idiomatic F# interface for ADO.NET.
 
+* [SqlHydra](https://github.com/JordanMarr/SqlHydra) - SqlHydra provides database code generation and query expressions.
+
 <br />
 
 
@@ -334,6 +336,8 @@ Tags: <a href="#compiler">Compiler</a>, <a href="#editing">Editing</a>, <a href=
 *  [Azure Storage Type Provider](http://fsprojects.github.io/AzureStorageTypeProvider/) - A type provider for Azure Storage assets e.g. Blobs and Tables.
 
 *  [FsDecider](https://github.com/glenbraun/FsDecider) F# computation expression builder for AWS Simple Workflow deciders.
+
+*  [FSharp.DurableExtensions](https://github.com/JordanMarr/FSharp.DurableExtensions) F# Extensions for Azure Durable Functions for strongly typed activity calls.
 
 <br />
 
